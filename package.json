@@ -20,7 +20,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "create-frame": "^1.0.0",
+    "create-frame": "https://github.com/timopulkkinen/create-frame#master",
     "isobject": "^3.0.0"
   },
   "devDependencies": {
